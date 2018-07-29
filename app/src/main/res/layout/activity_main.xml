@@ -13,6 +13,6 @@
        android:id="@+id/recycler"
        >
 
-   </android.support.v7.widget.RecyclerView>e
+   </android.support.v7.widget.RecyclerView>
 
 </RelativeLayout>

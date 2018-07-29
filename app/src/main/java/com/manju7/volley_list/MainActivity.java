@@ -62,6 +62,8 @@ public class MainActivity extends AppCompatActivity {
                 progressDialog.dismiss();
 
                 try {
+
+
                     JSONObject jsonObject = new JSONObject(response);
                     JSONArray array = jsonObject.getJSONArray("players");
 
